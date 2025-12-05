@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🜁 James Tibbott  
+## digital gremlin • vibe-coder
 
-<!--
-**fluxtt/fluxtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi. i write code because it’s fun and my brain gets itchy if i don’t.  
+not here for jobs, recruiters, or productivity tips
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what i do
+- start projects at 2am
+- forget i started them
+- build little tools because “it would be cool if…”
+- occasionally finish something
+
+---
+
+### my digital cave
+**https://www.jamestibbott.dev**  
+(the place where I throw thoughts, projects, and whatever else I feel like)
