@@ -1,5 +1,6 @@
-# 🜁 James Tibbott  
-## digital gremlin • vibe-coder
-
-hi. i write code because it’s fun and my brain gets itchy if i don’t.  
-not here for jobs, recruiters, or productivity tips
+# James Tibbott  
+## vibe-coder
+### 💻 What I’m into
+- **Building for fun**: Scripts that make my life easier or just look cool.
+- **Breaking things**: Taking apart frameworks to see how they tick.
+- **The Stack**: Usually messing around with Python, JS, or whatever is interesting this week.
