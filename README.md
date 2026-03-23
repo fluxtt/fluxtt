@@ -1,5 +1,5 @@
 # James Tibbott  
-## vibe-coder
+## vibe coder
 ### 💻 What I’m into
 - **Building for fun**: Scripts that make my life easier or just look cool.
 - **Breaking things**: Taking apart frameworks to see how they tick.
