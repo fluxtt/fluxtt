@@ -1,6 +1,6 @@
-# James Tibbott  
-## vibe coder
-### 💻 What I’m into
-- **Building for fun**: Scripts that make my life easier or just look cool.
-- **Breaking things**: Taking apart frameworks to see how they tick.
-- **The Stack**: Usually messing around with Python, JS, or whatever is interesting this week.
+# James Tibbott
+## IT Support | CS Student | Proxmox tinkerer
+
+- Currently getting a CS degree and running a homelab off a laptop with a broken screen.
+- Mostly here to host my config files and scripts.
+- If it's broken, I'm probably the one who broke it.
